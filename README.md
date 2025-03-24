@@ -46,5 +46,3 @@ formatting JSON, handling character sets, using WebSockets, and so on.
 
 <h2>....<h2>
 
-<h2>Chapter 3: Your First Node.js
-Application</h2>
