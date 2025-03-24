@@ -45,4 +45,3 @@ formatting JSON, handling character sets, using WebSockets, and so on.
 </p>
 
 <h2>....<h2>
-
